@@ -43,6 +43,7 @@ The goal was to transform raw data into meaningful business insights through dat
 
 ### 📊 Power BI Dashboard
 ![Power BI](images/powerbi-analysis.png)
+![Power BI](images/powerbi-segmentation.png)
 
 
 ### 📈 Excel Analysis
