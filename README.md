@@ -1,19 +1,19 @@
-# 🍽️ Zomato Data Analysis Project
+# Zomato Data Analysis Project
 
-## 🚀 Project Highlights
+## Project Highlights
 - Performed end-to-end analysis on a real-world Zomato dataset  
 - Built interactive dashboards using Power BI & Tableau  
 - Extracted actionable insights on pricing, ratings, and restaurant trends  
 
 ---
 
-## 📌 Overview
+## Overview
 This project focuses on analyzing Zomato restaurant data to uncover insights related to pricing, customer ratings, cuisines, and geographic distribution.  
 The goal was to transform raw data into meaningful business insights through data cleaning, analysis, and visualization.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Excel  
 - SQL  
 - Power BI  
@@ -21,7 +21,7 @@ The goal was to transform raw data into meaningful business insights through dat
 
 ---
 
-## 📊 Key Tasks Performed
+## Key Tasks Performed
 - Data cleaning & preprocessing  
 - Handling missing values  
 - Currency normalization  
@@ -30,7 +30,7 @@ The goal was to transform raw data into meaningful business insights through dat
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Most restaurants fall within the mid-price range  
 - Higher-priced restaurants tend to have slightly better ratings  
 - Certain cuisines dominate specific regions  
@@ -39,21 +39,40 @@ The goal was to transform raw data into meaningful business insights through dat
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-### 📊 Power BI Dashboard
+### Power BI Dashboard
 ![Power BI](images/powerbi-analysis.png)
 ![Power BI](images/powerbi-segmentation.png)
 
 
-### 📈 Excel Analysis
+### Excel Analysis
 ![Excel](images/excel-analysis.png)
 ![Excel](images/excel-segmentation-analysis.png)
 
-### 📉 Tableau Dashboard
+### Tableau Dashboard
 ![Tableau](images/tableau-analysis.png)
 ![Tableau](images/tableau-segmentation.png)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+Zomato-Analysis-Project/
+│
+├── images/
+├── Zomato Excel Module.xlsx
+├── Zomato Power BI Module.pbix
+├── Zomato SQL Module.sql
+├── Zomato Tableau Module.twbx
+└── README.md
+
+
+---
+
+##  Conclusion
+This project demonstrates the ability to perform data analysis, derive insights, and present findings using modern BI tools.  
+It reflects strong skills in data cleaning, visualization, and business understanding.
+
+---
+
+
