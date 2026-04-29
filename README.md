@@ -58,13 +58,13 @@ The goal was to transform raw data into meaningful business insights through dat
 
 ## Project Structure
 Zomato-Analysis-Project/
-│
-├── images/
-├── Zomato Excel Module.xlsx
-├── Zomato Power BI Module.pbix
-├── Zomato SQL Module.sql
-├── Zomato Tableau Module.twbx
-└── README.md
+images/
+README.md
+Zomato Excel Module.xlsx
+Zomato Power BI Module.pbix
+Zomato SQL Module.sql
+Zomato Tableau Module.twbx
+
 
 
 ---
