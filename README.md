@@ -44,11 +44,14 @@ The goal was to transform raw data into meaningful business insights through dat
 ### 📊 Power BI Dashboard
 ![Power BI](images/powerbi-analysis.png)
 
+
 ### 📈 Excel Analysis
 ![Excel](images/excel-analysis.png)
+(images/excel-segmentation-analysis.png)
 
 ### 📉 Tableau Dashboard
 ![Tableau](images/tableau-analysis.png)
+(images/tableau-segmentation.png)
 
 ---
 
