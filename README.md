@@ -56,19 +56,6 @@ The goal was to transform raw data into meaningful business insights through dat
 
 ---
 
-## Project Structure
-Zomato-Analysis-Project/
-images/
-README.md
-Zomato Excel Module.xlsx
-Zomato Power BI Module.pbix
-Zomato SQL Module.sql
-Zomato Tableau Module.twbx
-
-
-
----
-
 ##  Conclusion
 This project demonstrates the ability to perform data analysis, derive insights, and present findings using modern BI tools.  
 It reflects strong skills in data cleaning, visualization, and business understanding.
